@@ -54,8 +54,9 @@ Implement Access Control List in Vue in both with and without package (@casl)
 🔗 Code: https://github.com/rasoolzia/vue-acl-practice
 
 ### My Portfolio
-Personal portfolio built with React and TypeScript, featuring modern UI design, smooth animations and interactive terminal-based interface.  
-Includes a custom terminal system where users can explore profile data using CLI-style commands.  
+Interactive developer portfolio built with React and TypeScript featuring modern UI, animated components and a custom terminal-style interface.  
+Users can explore profile information through CLI-inspired commands (e.g. cat about.txt), simulating a real developer environment.  
+Focus on performance, animation smoothness and creative UX interactions.  
 🔗 Live: https://mrzd.ir  
 🔗 Code: https://github.com/rasoolzia/mrzd-portfolio
 
