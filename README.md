@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQHHfxRvMQoebA/profile-displaybackgroundimage-shrink_200_800/B4EZ0ecO39G0AU-/0/1774332214149?e=1782950400&v=beta&t=jt5rBMR2NSoN6fPcc9l9lTbIRdBF4lN1SXYuecHpiX8" alt="Rasool Zia Banner" />
+</p>
+
 # Rasool Zia
 
 Frontend Software Engineer with 6+ years of experience building enterprise web applications using React, Next.js, TypeScript and Vue.js.
@@ -6,13 +10,10 @@ Currently focused on frontend architecture, performance optimization and maintai
 
 ## Tech Stack
 
-React • Next.js • Vue • TypeScript
-
-TanStack Query • Zustand • Pinia • Redux
-
-Node.js • Express • NestJS • REST APIs • GraphQL
-
-MySQL • Prisma
+Frontend: React • Next.js • Vue • TypeScript  
+State: Zustand • Redux • Pinia • TanStack Query  
+Backend: Node.js • Express • NestJS • REST • GraphQL  
+Database: MySQL • Prisma
 
 ---
 
@@ -20,38 +21,42 @@ MySQL • Prisma
 
 ### Developer Interview Handbook
 
-Open-source repository containing practical interview questions and software engineering concepts.
+Open-source repository containing practical interview questions and software engineering concepts.  
 
-🔗 https://interview.mrzd.ir
-🔗 https://github.com/rasoolzia/developer-interview-handbook
-
-### My Portfolio
-
-🔗 https://mrzd.ir
-🔗 https://github.com/rasoolzia/mrzd-portfolio
+🔗 Live: https://interview.mrzd.ir  
+🔗 Code: https://github.com/rasoolzia/developer-interview-handbook
 
 ### React Playground
 
-Practical examples covering authentication, ACL, Zustand, React Hook Form and TypeScript patterns.
-🔗 https://demo.mrzd.ir/reactjs-practice
-🔗 https://github.com/rasoolzia/reactjs-practice
-
-### Vue Playground
-
-Examples demonstrating Composition API, Pinia and modular architecture.
-🔗 https://demo.mrzd.ir/vuejs-practice
-🔗 https://github.com/rasoolzia/vuejs-practice
+Practical examples covering authentication, ACL, Zustand, React Hook Form and TypeScript patterns.  
+🔗 Live: https://demo.mrzd.ir/reactjs-practice  
+🔗 Code: https://github.com/rasoolzia/reactjs-practice
 
 ### Next.js Playground
 
-SSR, SSG and modern App Router examples.
-🔗 https://nextjs-practice-two-ivory.vercel.app
-🔗 https://github.com/rasoolzia/nextjs-practice
+SSR, SSG and modern App Router examples.  
+🔗 Live: https://nextjs-practice-two-ivory.vercel.app  
+🔗 Code: https://github.com/rasoolzia/nextjs-practice
 
 ### NestJS Invoice Reporting System
 
-Backend project featuring MongoDB, RabbitMQ, cron jobs and email notifications.
-🔗 https://github.com/rasoolzia/nestjs-practice
+Backend project featuring MongoDB, RabbitMQ, cron jobs and email notifications.  
+🔗 Code: https://github.com/rasoolzia/nestjs-practice
+
+### Vue Playground
+
+Examples demonstrating Composition API, Pinia and modular architecture.  
+🔗 Live: https://demo.mrzd.ir/vuejs-practice  
+🔗 Code: https://github.com/rasoolzia/vuejs-practice
+
+### Vue ACL
+Implement Access Control List in Vue in both with and without package (@casl)  
+🔗 Code: https://github.com/rasoolzia/vue-acl-practice
+
+### My Portfolio
+
+🔗 Live: https://mrzd.ir  
+🔗 Code: https://github.com/rasoolzia/mrzd-portfolio
 
 ---
 
