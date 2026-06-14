@@ -45,7 +45,7 @@ Backend project featuring MongoDB, RabbitMQ, cron jobs and email notifications.
 
 ### Vue Playground
 
-Examples demonstrating Composition API, Pinia and modular architecture.  
+Includes real-world patterns for building maintainable Vue applications.  
 🔗 Live: https://demo.mrzd.ir/vuejs-practice  
 🔗 Code: https://github.com/rasoolzia/vuejs-practice
 
