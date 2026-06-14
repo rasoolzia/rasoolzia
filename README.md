@@ -45,7 +45,7 @@ Backend project featuring MongoDB, RabbitMQ, cron jobs and email notifications.
 
 ### Vue Playground
 
-Includes real-world patterns for building maintainable Vue applications.  
+Demonstrates real-world application structure including authentication flow, state management and feature separation.  
 🔗 Live: https://demo.mrzd.ir/vuejs-practice  
 🔗 Code: https://github.com/rasoolzia/vuejs-practice
 
@@ -54,7 +54,8 @@ Implement Access Control List in Vue in both with and without package (@casl)
 🔗 Code: https://github.com/rasoolzia/vue-acl-practice
 
 ### My Portfolio
-
+Personal portfolio built with React and TypeScript, featuring modern UI design, smooth animations and interactive terminal-based interface.  
+Includes a custom terminal system where users can explore profile data using CLI-style commands.  
 🔗 Live: https://mrzd.ir  
 🔗 Code: https://github.com/rasoolzia/mrzd-portfolio
 
