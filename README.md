@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQHHfxRvMQoebA/profile-displaybackgroundimage-shrink_200_800/B4EZ0ecO39G0AU-/0/1774332214149?e=1782950400&v=beta&t=jt5rBMR2NSoN6fPcc9l9lTbIRdBF4lN1SXYuecHpiX8" alt="Rasool Zia Banner" />
-</p>
-
 # Rasool Zia
 
 Frontend Software Engineer with 6+ years of experience building enterprise web applications using React, Next.js, TypeScript and Vue.js.
