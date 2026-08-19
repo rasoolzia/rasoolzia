@@ -15,61 +15,65 @@ Database: MySQL • Prisma
 
 ## Featured Projects
 
-### Developer Interview Handbook
+### Developer Interview Handbook & Website
 
-Open-source repository containing practical interview questions and software engineering concepts.  
+**Content:** Open-source repository containing practical interview questions and software engineering concepts.  
+**Website:** A fast, multilingual (English/Persian) developer interview questions website built with Next.js 16, React Server Components, and Feature-Sliced Design architecture.
 
-🔗 Live: https://interview.mrzd.ir  
-🔗 Code: https://github.com/rasoolzia/developer-interview-handbook
+🔗 **Live:** https://interview.mrzd.ir  
+🔗 **Code (Handbook):** https://github.com/rasoolzia/developer-interview-handbook  
+🔗 **Code (Website):** https://github.com/rasoolzia/developer-interview-website
 
 ### React Playground
 
 Practical examples covering authentication, ACL, Zustand, React Hook Form and TypeScript patterns.  
-🔗 Live: https://demo.mrzd.ir/reactjs-practice  
-🔗 Code: https://github.com/rasoolzia/reactjs-practice
+🔗 **Live:** https://demo.mrzd.ir/reactjs-practice  
+🔗 **Code:** https://github.com/rasoolzia/reactjs-practice
 
 ### Next.js Playground
 
 SSR, SSG and modern App Router examples.  
-🔗 Live: https://nextjs-practice-two-ivory.vercel.app  
-🔗 Code: https://github.com/rasoolzia/nextjs-practice
+🔗 **Live:** https://nextjs-practice-two-ivory.vercel.app  
+🔗 **Code:** https://github.com/rasoolzia/nextjs-practice
 
 ### NestJS Invoice Reporting System
 
 Backend project featuring MongoDB, RabbitMQ, cron jobs and email notifications.  
-🔗 Code: https://github.com/rasoolzia/nestjs-practice
+🔗 **Code:** https://github.com/rasoolzia/nestjs-practice
 
 ### Vue Playground
 
 Demonstrates real-world application structure including authentication flow, state management and feature separation.  
-🔗 Live: https://demo.mrzd.ir/vuejs-practice  
-🔗 Code: https://github.com/rasoolzia/vuejs-practice
+🔗 **Live:** https://demo.mrzd.ir/vuejs-practice  
+🔗 **Code:** https://github.com/rasoolzia/vuejs-practice
 
 ### Vue ACL
-Implement Access Control List in Vue in both with and without package (@casl)  
-🔗 Code: https://github.com/rasoolzia/vue-acl-practice
+
+Implement Access Control List in Vue in both with and without package (@casl).  
+🔗 **Code:** https://github.com/rasoolzia/vue-acl-practice
 
 ### My Portfolio
+
 Interactive developer portfolio built with React and TypeScript featuring modern UI, animated components and a custom terminal-style interface.  
-Users can explore profile information through CLI-inspired commands (e.g. cat about.txt), simulating a real developer environment.  
+Users can explore profile information through CLI-inspired commands (e.g. `cat about.txt`), simulating a real developer environment.  
 Focus on performance, animation smoothness and creative UX interactions.  
-🔗 Live: https://mrzd.ir  
-🔗 Code: https://github.com/rasoolzia/mrzd-portfolio
+🔗 **Live:** https://mrzd.ir  
+🔗 **Code:** https://github.com/rasoolzia/mrzd-portfolio
 
 ---
 
 ## Current Focus
 
-* Frontend architecture
-* TypeScript
-* Performance optimization
-* Software design
-* Developer experience
+- Frontend architecture
+- TypeScript
+- Performance optimization
+- Software design
+- Developer experience
 
 ---
 
 ## Contact
 
-* Portfolio: https://mrzd.ir
-* LinkedIn: https://linkedin.com/in/rasoolzia
-* Email: [rasool.ziaaddini@gmail.com](mailto:rasool.ziaaddini@gmail.com)
+- **Portfolio:** https://mrzd.ir
+- **LinkedIn:** https://linkedin.com/in/rasoolzia
+- **Email:** [rasool.ziaaddini@gmail.com](mailto:rasool.ziaaddini@gmail.com)
