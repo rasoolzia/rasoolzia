@@ -1,79 +1,74 @@
 # Rasool Zia
 
-Frontend Software Engineer with 6+ years of experience building enterprise web applications using React, Next.js, TypeScript and Vue.js.
+Frontend Software Engineer with **6+ years of overall web development experience**, including **3+ years focused on frontend engineering**. I build maintainable web applications and developer tools using React, Next.js, TypeScript, and Vue.js.
 
-Currently focused on frontend architecture, performance optimization and maintainable systems.
+Focused on frontend architecture, performance, reusable components, testing, and developer experience.
 
 ## Tech Stack
 
-Frontend: React • Next.js • Vue • TypeScript  
-State: Zustand • Redux • Pinia • TanStack Query  
-Backend: Node.js • Express • NestJS • REST • GraphQL  
-Database: MySQL • Prisma
+- **Frontend:** React, Next.js, Vue 2/3, TypeScript, JavaScript
+- **State & Data:** Zustand, Redux, Pinia, TanStack Query
+- **Backend:** Node.js, Express, NestJS, REST
+- **Database:** MySQL, Prisma
+- **Testing & Tooling:** Vitest, Jest, React Testing Library, Git, GitHub Actions, CI/CD
 
 ---
 
 ## Featured Projects
 
-### Developer Interview Handbook & Website
+### Developer Interview Handbook
+Bilingual (English/Persian) open-source interview knowledge platform with a TypeScript content pipeline and a Next.js 16 frontend.
 
-**Content:** Open-source repository containing practical interview questions and software engineering concepts.  
-**Website:** A fast, multilingual (English/Persian) developer interview questions website built with Next.js 16, React Server Components, and Feature-Sliced Design architecture.
+🔗 [Live Website](https://interview.mrzd.ir) · [Handbook](https://github.com/rasoolzia/developer-interview-handbook) · [Website Source](https://github.com/rasoolzia/developer-interview-website)
 
-🔗 **Live:** https://interview.mrzd.ir  
-🔗 **Code (Handbook):** https://github.com/rasoolzia/developer-interview-handbook  
-🔗 **Code (Website):** https://github.com/rasoolzia/developer-interview-website
+### Code Context
+VS Code extension for exporting, importing, exploring, and sharing project context.
+
+🔗 [Source Code](https://github.com/rasoolzia/code-context)
+
+### AI RTL
+Lightweight Chrome extension adding right-to-left support to AI chat interfaces for Persian and other RTL languages.
+
+🔗 [Source Code](https://github.com/rasoolzia/ai-rtl)
 
 ### React Playground
+React 19 and TypeScript examples covering authentication, access control, Zustand, TanStack Query, form validation, and component testing.
 
-Practical examples covering authentication, ACL, Zustand, React Hook Form and TypeScript patterns.  
-🔗 **Live:** https://demo.mrzd.ir/reactjs-practice  
-🔗 **Code:** https://github.com/rasoolzia/reactjs-practice
+🔗 [Live Demo](https://demo.mrzd.ir/reactjs-practice) · [Source Code](https://github.com/rasoolzia/reactjs-practice)
 
 ### Next.js Playground
+Practical examples of modern Next.js, rendering strategies, Server Actions, database integration, authentication, and access control.
 
-SSR, SSG and modern App Router examples.  
-🔗 **Live:** https://nextjs-practice-two-ivory.vercel.app  
-🔗 **Code:** https://github.com/rasoolzia/nextjs-practice
+🔗 [Live Demo](https://nextjs-practice-two-ivory.vercel.app) · [Source Code](https://github.com/rasoolzia/nextjs-practice)
+
+### Vue Playground & ACL
+Vue 3 applications demonstrating authentication, state management, modular architecture, and both custom and CASL-based access control.
+
+🔗 [Vue Playground](https://github.com/rasoolzia/vuejs-practice) · [Vue ACL](https://github.com/rasoolzia/vue-acl-practice)
 
 ### NestJS Invoice Reporting System
+Backend project demonstrating modular architecture, RabbitMQ, scheduled jobs, authentication, and database integration.
 
-Backend project featuring MongoDB, RabbitMQ, cron jobs and email notifications.  
-🔗 **Code:** https://github.com/rasoolzia/nestjs-practice
+🔗 [Source Code](https://github.com/rasoolzia/nestjs-practice)
 
-### Vue Playground
+### Portfolio
+Interactive React and TypeScript portfolio featuring animated UI and a terminal-inspired interface.
 
-Demonstrates real-world application structure including authentication flow, state management and feature separation.  
-🔗 **Live:** https://demo.mrzd.ir/vuejs-practice  
-🔗 **Code:** https://github.com/rasoolzia/vuejs-practice
-
-### Vue ACL
-
-Implement Access Control List in Vue in both with and without package (@casl).  
-🔗 **Code:** https://github.com/rasoolzia/vue-acl-practice
-
-### My Portfolio
-
-Interactive developer portfolio built with React and TypeScript featuring modern UI, animated components and a custom terminal-style interface.  
-Users can explore profile information through CLI-inspired commands (e.g. `cat about.txt`), simulating a real developer environment.  
-Focus on performance, animation smoothness and creative UX interactions.  
-🔗 **Live:** https://mrzd.ir  
-🔗 **Code:** https://github.com/rasoolzia/mrzd-portfolio
+🔗 [Live Portfolio](https://mrzd.ir) · [Source Code](https://github.com/rasoolzia/mrzd-portfolio)
 
 ---
 
 ## Current Focus
 
-- Frontend architecture
-- TypeScript
-- Performance optimization
-- Software design
-- Developer experience
+- Frontend architecture and scalable UI systems
+- React, Next.js, and TypeScript
+- Performance and testing
+- Developer tools and open-source projects
 
 ---
 
 ## Contact
 
-- **Portfolio:** https://mrzd.ir
-- **LinkedIn:** https://linkedin.com/in/rasoolzia
+- **Portfolio:** [mrzd.ir](https://mrzd.ir)
+- **LinkedIn:** [linkedin.com/in/rasoolzia](https://linkedin.com/in/rasoolzia)
 - **Email:** [rasool.ziaaddini@gmail.com](mailto:rasool.ziaaddini@gmail.com)
