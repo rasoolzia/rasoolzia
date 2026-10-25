@@ -70,5 +70,6 @@ Interactive React and TypeScript portfolio featuring animated UI and a terminal-
 ## Contact
 
 - **Portfolio:** [mrzd.ir](https://mrzd.ir)
+- **Personal Website:** [rasoolzia.ir](https://rasoolzia.ir)
 - **LinkedIn:** [linkedin.com/in/rasoolzia](https://linkedin.com/in/rasoolzia)
 - **Email:** [rasool.ziaaddini@gmail.com](mailto:rasool.ziaaddini@gmail.com)
